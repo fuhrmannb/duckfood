@@ -19,7 +19,7 @@
     "firebase": "~7.14.1",
     "formik": "~2.1.4",
     "formik-material-ui": "~2.0.0-beta.1",
-    "immer": "~6.0.3",
+    "immer": "~8.0.1",
     "material-ui-chip-input": "~1.1.0",
     "material-ui-formik-components": "~0.6.1",
     "node-sass": "~4.14",
